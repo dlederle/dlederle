@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi! I am not currently seeking any freelance work. Something [like this](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)  recently happened to me. If you think you’re hiring me for a freelance gig, you aren’t :)
+
+
 <!--
 **dlederle/dlederle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
