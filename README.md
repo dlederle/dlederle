@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi! I am currently looking for full time work in Elixir / Phoenix or Ruby / Rails, remote US preferred.
-
 I am not currently seeking any freelance work. Something [like this](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)  recently happened to me. If you think you’re hiring me for a freelance gig, you aren’t :)
 
 
